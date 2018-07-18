@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context="._trash.MainActivity">
 
-    <com.example.t_rex.facedetection3.ui.FaceOverlayView
+    <com.materna.przemek.painlessfacedetection.ui.FaceOverlayView
         android:id="@+id/face_overlay"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
